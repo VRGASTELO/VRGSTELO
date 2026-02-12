@@ -20,7 +20,7 @@ tar -xzvf /path/rom-file.tgz
 
 cd
 
-git clone https://github.com/R1punk/termux-miflash
+git clone https://github.com/VRGASTELO/termux-miflash
 
 cd termux-miflash
 
